@@ -1,0 +1,6 @@
+1. print on to the console 
+2. Input from console
+3. All arithmetic operations(+,-,*,/,%,)
+4. Create a program by using all primitive datatypes
+5. create a program by using loops 
+6. create nested loop (conditions within the conditions) 
